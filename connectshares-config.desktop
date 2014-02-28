@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Connectshares Configuration
+Comment=Display an interactive menu to set up information used by connectshares.sh
+Exec=connectshares-config
+Icon=connectshares-config.png
+Type=Application
+Categories=Application;Network;
+
+

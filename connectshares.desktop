@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Connectshares
+Comment=Mount shares offered by a remote system
+Exec=connectshares
+Icon=connectshares.png
+Type=Application
+Categories=Application;Network;
+
+
