@@ -7,5 +7,6 @@ Standards-Version: 3.9.4
 Homepage: http://antix.mepis.org
 
 Package: connectshares-antix
+Depends: nfs-common, sudo, cifs-utils
 Architecture: all
 Description: Mounts Samba and/or NFS shares offered by a remote system(s).

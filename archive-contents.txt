@@ -1,0 +1,31 @@
+Connectshares v7
+
+* archive-contents.txt (this doc)
+
+* changelog.txt
+
+* connectshares-bin.tgz
+These are findshares, plus the executable scripts to replace those in /usr/local/bin/
+Owner=root:root
+Permissions=rwxr-xr-x
+
+* connectshares-menu.tgz
+These are the .desktop files  location /usr/share/applications/antix/
+Owner=root:root
+Permissions=rw-r--r--
+
+* connectshares-menuicons.tgz
+These are the icons referenced in the .desktop files  location /usr/share/pixmaps/
+Owner=root:root
+Permissions=rw-r--r--
+
+* connectshares-cfgs.tgz
+These are the config files for ~/.configs/connectshares/  and  /etc/skel/.configs/connectshares/
+Owner=$USER:$USER
+Permissions=rw-r--r--
+
+* connectshares-roxterm-profile.tgz
+The profile for ~/.configs/roxterm.sourceforge.net/Profiles/  and  /etc/skel/.configs/roxterm.sourceforge.net/Profiles/
+Owner=$USER:$USER
+Permissions=rw-r--r--
+
