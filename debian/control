@@ -1,12 +1,12 @@
 Source: connectshares-antix
 Section: system
 Priority: optional
-Maintainer: anticapitalista <antiX@operamail.com>
+Maintainer: anticapitalista <antix@operamail.com>
 Build-Depends: debhelper (>= 9.20120115)
 Standards-Version: 3.9.4
 Homepage: http://antix.mepis.org
 
 Package: connectshares-antix
 Depends: nfs-common, sudo, cifs-utils
-Architecture: all
+Architecture: amd64
 Description: Mounts Samba and/or NFS shares offered by a remote system(s).

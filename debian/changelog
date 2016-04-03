@@ -1,3 +1,10 @@
+connectshares-antix (0.2.0) unstable; urgency=low
+
+  * Fixed broken 64 bit version
+
+ -- anticapitalista <antiX@operamail.com>  Fri, 13 Feb 2016 00:33:00 +0200
+
+
 connectshares-antix (0.1.9) unstable; urgency=low
 
   * Added nfs-common as a dependency
