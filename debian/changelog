@@ -1,3 +1,21 @@
+connectshares-antix (0.2.3) unstable; urgency=medium
+
+  * Do not show in menu
+
+ -- anticapitalista <antix@operamail.com>  Sat, 01 Jul 2017 18:38:41 +0300
+
+connectshares-antix (0.2.2) unstable; urgency=medium
+
+  * Removed umountnfs-alternative init.d script
+
+ -- anticapitalista <antix@operamail.com>  Thu, 16 Jun 2016 14:12:52 +0300
+
+connectshares-antix (0.2.1) unstable; urgency=medium
+
+  * Added umountnfs-alternative init.d script 
+
+ -- anticapitalista <antix@operamail.com>  Wed, 15 Jun 2016 23:34:32 +0300
+
 connectshares-antix (0.2.0) unstable; urgency=low
 
   * Fixed broken 64 bit version

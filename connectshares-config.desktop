@@ -5,5 +5,4 @@ Exec=connectshares-config
 Icon=connectshares-config.png
 Type=Application
 Categories=Application;Network;
-
-
+NoDisplay=True

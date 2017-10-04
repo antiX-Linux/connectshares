@@ -5,5 +5,4 @@ Exec=disconnectshares
 Icon=disconnectshares.png
 Type=Application
 Categories=Application;Network;
-
-
+NoDisplay=True
