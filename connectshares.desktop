@@ -1,8 +1,26 @@
 [Desktop Entry]
 Name=Connectshares
+Name[ca]=Connectshares
+Name[de]=Connectshares
+Name[el]=Connectshares
+Name[es]=Connectshares
+Name[fr]=Connectshares
+Name[it]=Connetti-Condivisioni
+Name[nl]=Connectshares
+Name[pt]=Ligar a Partilhas
+Name[sv]=Connectshares
 Comment=Mount shares offered by a remote system
+Comment[ca]=Munta les comparticions ofertes per un sistema remot
+Comment[de]=Binde Shares von Remote-Systemen ein
+Comment[el]=Mount shares που προσφέρονται από ένα απομακρυσμένο σύστημα
+Comment[es]=Montar compartirs ofrecido por un sistema remoto
+Comment[fr]=Monte les partages offerts par un système distant
+Comment[it]=Montare le condivisioni offerte da un desktop remoto
+Comment[nl]=Koppel shares aan aangeboden door een extern systeem
+Comment[pt]=Monta no sistema partilhas (shares) disponibilizadas por sistemas remotos
+Comment[sv]=Montera andelar som erbjuds av ett externt system
 Exec=connectshares
 Icon=connectshares.png
 Type=Application
 Categories=Application;Network;
-NoDisplay=True
+NoDisplay=False

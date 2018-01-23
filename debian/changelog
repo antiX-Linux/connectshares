@@ -1,3 +1,15 @@
+connectshares-antix (0.2.5) unstable; urgency=medium
+
+  * Show in applications for connectshares
+
+ -- anticapitalista <antix@operamail.com>  Tue, 23 Jan 2018 13:29:51 +0200
+
+connectshares-antix (0.2.4) unstable; urgency=medium
+
+  * revert back to show in Applications menu
+
+ -- anticapitalista <antix@operamail.com>  Sat, 07 Oct 2017 15:03:08 +0300
+
 connectshares-antix (0.2.3) unstable; urgency=medium
 
   * Do not show in menu

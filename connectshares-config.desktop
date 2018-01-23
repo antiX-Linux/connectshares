@@ -1,8 +1,26 @@
 [Desktop Entry]
 Name=Connectshares Configuration
+Name[ca]=Configuració de Connectshares
+Name[de]=Connectshares Konfiguration
+Name[el]=Connectshares Configuration
+Name[es]=Configuración de Connectshares
+Name[fr]=Configuration de Connectshares
+Name[it]=Configura Risorse Condivise
+Name[nl]=Connectshares Configuratie
+Name[pt]=Configurar o Ligar Partilhas
+Name[sv]=Connectshares Konfiguration
 Comment=Display an interactive menu to set up information used by connectshares.sh
+Comment[ca]=Mostra un menú interactiu per configurar els paràmetres de connectshares.sh
+Comment[de]=Zeige ein interaktives Menü an um die die Informationen für connectshares.sh einzustellen
+Comment[el]=Προβολή ένα διαδραστικό μενού για να ρυθμίσετε τις πληροφορίες που χρησιμοποιούνται από connectshares.sh
+Comment[es]=Mostrar menú para configurar información utilizado por connectshares.sh
+Comment[fr]=Affiche un menu interactif permettant de définir les informations utilisés par connectshares.sh
+Comment[it]=Visualizzare un menu interattivo per impostare le informazioni utilizzate da connectshares.sh
+Comment[nl]=Laat een interactief menu zien op informatie op te zetten gebruikt door connectshares.sh
+Comment[pt]=Exibe um menu interactivo para definir informação usada pelo ficheiro connectshares.sh
+Comment[sv]=Visa en interaktiv meny för att inrätta information använd av connectshares.sh
 Exec=connectshares-config
 Icon=connectshares-config.png
 Type=Application
 Categories=Application;Network;
-NoDisplay=True
+NoDisplay=False

@@ -1,8 +1,26 @@
 [Desktop Entry]
 Name=Disconnectshares
+Name[ca]=Disconnectshares
+Name[de]=Disconnectshares
+Name[el]=Disconnectshares
+Name[es]=Disconnectshares
+Name[fr]=Disconnectshares
+Name[it]=Disconnetti-Condivisioni
+Name[nl]=Disconnectshares
+Name[pt]=Desligar Partilhas
+Name[sv]=Disconnectshares
 Comment=Unmount shares from a remote system
+Comment[ca]=Desmunta les comparticions d'un sistema remot
+Comment[de]=Trenne Shares von Remote-Systemen
+Comment[el]=Unmount shares που προσφέρονται από ένα απομακρυσμένο σύστημα
+Comment[es]=Desmontar comparticiones de un sistema remoto
+Comment[fr]=Démonte les partages d'un système distant
+Comment[it]=Smontare le condivisioni di un sistema remoto
+Comment[nl]=Ontkoppel shares van een extern systeem
+Comment[pt]=Desmonta do sistema partilhas (shares) de sistemas remotos
+Comment[sv]=Avmontera andelar från ett externt system
 Exec=disconnectshares
 Icon=disconnectshares.png
 Type=Application
 Categories=Application;Network;
-NoDisplay=True
+NoDisplay=False
